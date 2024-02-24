@@ -2,7 +2,7 @@
 #### I am a second-year bioinformatics student   👩🏼‍💻🧬🦠
 
 - 🌱 I’m currently learning Python, R, SQL 
-- 💫 I’m looking for help with finding an internship 
+- 💫 I’m looking for an internship or apprenticeship
 - 📫 How to reach me: zofia.ddusinska@gmail.com 
 
 
