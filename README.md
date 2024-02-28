@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Zofia<br>I am a second-year bioinformatics student 👩🏼‍💻🧬🦠<br>-🌱 I’m currently learning Python, R, SQL<br>-💫 I am currently looking for an internship or apprenticeship<br>- 📫 How to reach me: zofia.ddusinska@gmail.com</h2>
+<h2 align="center">Hi 👋, I'm Zofia<br>I' am a second-year bioinformatics student 👩🏼‍💻🧬🦠<br>-🌱 I’m currently learning Python, R, SQL<br>-💫 I' am currently looking for an internship or apprenticeship<br>- 📫 How to reach me: zofia.ddusinska@gmail.com</h2>
 
 ###
 
