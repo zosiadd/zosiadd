@@ -11,7 +11,7 @@
   
 
 
-![ezgif-2-5df03fa065](https://github.com/zosiadd/zosiadd/assets/120915010/c7f717fc-4db8-41f1-b8ae-7834493fe8df)
+![ezgif-2-ebdda76f7e](https://github.com/zosiadd/zosiadd/assets/120915010/b0ba597d-de2a-445c-8e56-476d737f8228)
 
 
 
