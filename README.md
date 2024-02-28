@@ -12,7 +12,7 @@
 
 
 
-![image](https://github.com/zosiadd/zosiadd/assets/120915010/fb13f27e-50c9-4652-8c35-d219e9674958)
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVuNjYzZXlsNjNyN25zMzVmc3M0eWZxeWgxbDYzdjJudWhiNTZtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif)
 
 
 
