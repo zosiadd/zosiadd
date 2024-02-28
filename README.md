@@ -44,9 +44,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zosiadd.zosiadd&left_color=blue&right_color=gray"  />
 </div>
 
-###
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zosiadd.zosiadd&left_color=blue&right_color=gray"  />
-</div>
 
-###
