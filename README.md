@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋, I'm Zofia<br>I' am a second-year bioinformatics student 👩🏼‍💻🧬🦠<br>-🌱 I’m currently learning Python, R, SQL<br>-💫 I' am currently looking for an internship or apprenticeship<br>- 📫 How to reach me: zofia.ddusinska@gmail.com</h2>
+<h2 align="center">Hi 👋, I'm Zofia<br>I' am a second-year bioinformatics student 👩🏼‍💻🧬🦠<br>🌱 I’m currently learning Python, R, SQL<br>💫 I' am currently looking for an internship or apprenticeship<br>📫 How to reach me: zofia.ddusinska@gmail.com</h2>
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif"  />
 
 ###
 
@@ -40,6 +40,11 @@
 
 ###
 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zosiadd.zosiadd&left_color=blue&right_color=gray"  />
+</div>
+
+###
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zosiadd.zosiadd&left_color=blue&right_color=gray"  />
 </div>
