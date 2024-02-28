@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="173" src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif"  />
+<img align="right" height="250" src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif"  />
 
 ###
 
@@ -37,3 +37,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zosiadd.zosiadd&left_color=blue&right_color=gray"  />
+</div>
+
+###
