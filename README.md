@@ -1,4 +1,4 @@
-<img align="right" width="200" src="https://github.com/zosiadd/zosiadd/assets/120915010/b0ba597d-de2a-445c-8e56-476d737f8228" alt="Profile Image"/>
+<img align="center" width="200" src="https://github.com/zosiadd/zosiadd/assets/120915010/b0ba597d-de2a-445c-8e56-476d737f8228" alt="Profile Image"/>
 
 
 ### Hi there 👋, About me:
