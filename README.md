@@ -1,12 +1,9 @@
-<img align="center" width="200" src="https://github.com/zosiadd/zosiadd/assets/120915010/b0ba597d-de2a-445c-8e56-476d737f8228" alt="Profile Image"/>
-
-
 ### Hi there 👋, About me:
 #### I am a second-year bioinformatics student 👩🏼‍💻🧬🦠
 - 🌱 I’m currently learning Python, R, SQL                 
 - 💫 I’m looking for an internship or apprenticeship
 - 📫 How to reach me: zofia.ddusinska@gmail.com
-
+<img align="center" width="200" src="https://github.com/zosiadd/zosiadd/assets/120915010/b0ba597d-de2a-445c-8e56-476d737f8228" alt="Profile Image"/>
 
 
 
