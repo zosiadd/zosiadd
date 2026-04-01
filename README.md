@@ -11,6 +11,8 @@
 ###
 
 <div align="left">
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
@@ -20,8 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
   <img width="12" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
 </div>
 
 ###
