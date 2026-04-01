@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Zofia<br>I' am a the fourth-year bioinformatics student 👩🏼‍💻🧬🦠<br>💫 I' am currently working as a working student—a data analyst📊<br>📫 How to reach me: zofia.ddusinska@gmail.com</h2>
+<h2 align="center">Hi 👋, I'm Zofia<br>I' am a the fourth-year bioinformatics student 👩🏼‍💻🧬🦠<br>💫 I' am currently working as a working student, a data analyst📊<br>📫 How to reach me: zofia.ddusinska@gmail.com</h2>
 
 ###
 
